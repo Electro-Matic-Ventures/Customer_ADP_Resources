@@ -1,0 +1,17 @@
+Font color – RED
+Background color – BLACK
+Font size – NORMAL 7
+Line space – 1 PIXEL
+Stay time – 3 SECONDS
+Speed – MEDIUM
+Horizontal justification – CENTER
+Vertical justification – FILL
+Wordwrap – ON
+In Mode- Random
+Out Mode- Random
+Flash- OFF
+Default drive- D:
+Folder- T:
+Flash- OFF
+Default Drive- D:
+
